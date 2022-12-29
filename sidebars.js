@@ -29,13 +29,13 @@ const sidebars = {
 
     {
 
-      
+
       type: 'category',
       label: 'Arduino',
       items: [
         'Arduino/Arduino_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -45,9 +45,10 @@ const sidebars = {
       items: [
         'Grove/Grove',
         'Grove/Grove_System',
-        'Grove/Grove_A'
+        'Grove/Grove_A',
+        'Grove/Temperature',
       ],
-    
+
     },
 
     {
@@ -56,7 +57,7 @@ const sidebars = {
       items: [
         'Wio_Terminal/Wio_Terminal_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -66,7 +67,7 @@ const sidebars = {
       items: [
         'SeeedStudio_XIAO/SeeedStudio_XIAO_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -75,7 +76,7 @@ const sidebars = {
       items: [
         'micro_bit/micro_bit_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -84,7 +85,7 @@ const sidebars = {
       items: [
         'LoRaWAN/LoRaWAN_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -93,7 +94,7 @@ const sidebars = {
       items: [
         'shield/shield_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -102,7 +103,7 @@ const sidebars = {
       items: [
         'Beagle_Bone/Beagle_Bone_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -112,7 +113,7 @@ const sidebars = {
       items: [
         'Raspberry_Pi/Raspberry_Pi_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -122,7 +123,7 @@ const sidebars = {
       items: [
         'reTerminal/reTerminal_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -131,7 +132,7 @@ const sidebars = {
       items: [
         'reSpeaker/reSpeaker_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -140,7 +141,7 @@ const sidebars = {
       items: [
         'ODYSSEY/ODYSSEY_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -149,7 +150,7 @@ const sidebars = {
       items: [
         'reSpeaker/reSpeaker_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -159,7 +160,7 @@ const sidebars = {
       items: [
         'NVIDIA/NVIDIA_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -169,7 +170,7 @@ const sidebars = {
       items: [
         'reServer/reServer_Getting_Started',
       ],
-    
+
     },
 
     {
@@ -178,18 +179,18 @@ const sidebars = {
       items: [
         'Others/Others_Product',
       ],
-    
+
     },
 
-  //  'About',
-  //  'License',
-    
+    //  'About',
+    //  'License',
+
   ],
 
-  SenseCAPSidebar: 
+  SenseCAPSidebar:
 
 
-  
+
     [
       'SenseCAP/SenseCAP_Introdution',
 
@@ -200,8 +201,8 @@ const sidebars = {
         items: [
           'SenseCAP/SenseCAP_Getting_Started',
         ],
-        
-      
+
+
       },
 
       {
@@ -211,8 +212,8 @@ const sidebars = {
         items: [
           'SenseCAP_Probe_Accessories/Liquid_level_sensor',
         ],
-        
-      
+
+
       },
 
       {
@@ -222,15 +223,15 @@ const sidebars = {
         items: [
           'SenseCAP_The_Sensor_Prototype_Kit/Contents',
         ],
-        
-      
+
+
       },
 
 
     ],
 
-  MakerSidebar: 
-  
+  MakerSidebar:
+
     [
       'Maker/Maker_Introduction',
       {
@@ -240,7 +241,7 @@ const sidebars = {
         items: [
           'Maker/Maker_Getting_Started',
         ],
-      
+
       },
 
       {
@@ -250,7 +251,7 @@ const sidebars = {
         items: [
           'Maker/Tutorials/Tutorials_Introduction',
         ],
-      
+
       },
 
       {
@@ -260,7 +261,7 @@ const sidebars = {
         items: [
           'Maker/Software/Software_Introduction',
         ],
-      
+
       },
 
       {
@@ -269,7 +270,7 @@ const sidebars = {
         items: [
           'Maker/Arduino/Arduino_Introduction',
         ],
-      
+
       },
 
       {
@@ -278,7 +279,7 @@ const sidebars = {
         items: [
           'Maker/Raspberry_Pi/Raspberry_Pi_Introduction',
         ],
-      
+
       },
 
 
@@ -288,7 +289,7 @@ const sidebars = {
         items: [
           'Maker/NVIDIA/NVIDIA_Introduction',
         ],
-      
+
       },
 
 
