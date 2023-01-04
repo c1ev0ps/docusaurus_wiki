@@ -53,8 +53,8 @@ SenseCAP S210x series industrial sensors provide an out-of-box experience for en
 |Specified Humidity Range|0%RH to +100%RH|
 |Humidity Resolution|0.01%RH|
 |Humidity Accuracy Tolerance|±1.5 %RH|
-|Interface|I^2^C|
-|I^2^C Address|0x45(default) / 0x44(optional)|
+|Interface|I2C|
+|I2C Address|0x45(default) / 0x44(optional)|
 
 ## Applications
 
@@ -106,7 +106,7 @@ This module is based on **SHT35**, the input voltage of this chip range from 2.1
 
     **2** Each Grove module comes with a Grove cable when you buy. In case you lose the Grove cable, you can click [here](https://www.seeedstudio.com/Grove-Universal-4-Pin-Buckled-20cm-Cable-%285-PCs-pack%29-p-936.html) to buy.
 
-- **Step 1.** Connect the Grove - I2C High Accuracy Temp&Humi Sensor(SHT35) to port **I^2^C** of Grove-Base Shield.
+- **Step 1.** Connect the Grove - I2C High Accuracy Temp&Humi Sensor(SHT35) to port **I2C** of Grove-Base Shield.
 
 - **Step 2.** Plug Grove - Base Shield into Seeeduino.
 
@@ -250,7 +250,7 @@ humidity =51.09
 |[Get ONE Now](https://www.seeedstudio.com/Raspberry-Pi-3-Model-B-p-2625.html)|[Get ONE Now](https://www.seeedstudio.com/Grove-Base-Hat-for-Raspberry-Pi-p-3186.html)|[Get ONE Now](https://www.seeedstudio.com/Grove-I2C-High-Accuracy-Temp%26Humi-Sensor%28SHT35%29-p-3182.html)|
 
 - **Step 2**. Plug the Grove Base Hat into Raspberry.
-- **Step 3**. Connect the Grove - I2C High Accuracy Temp&Humi Sensor(SHT35) to **I^2^C** port of the Base Hat.
+- **Step 3**. Connect the Grove - I2C High Accuracy Temp&Humi Sensor(SHT35) to **I2C** port of the Base Hat.
 - **Step 4**. Connect the Raspberry Pi to PC through USB cable.
 
 <div align="center"><img width="{1000}" src="https://files.seeedstudio.com/wiki/Grove-I2C_High_Accuracy_Temp-Humi_Sensor-SHT35/img/With_Hat.jpg" /></div>
