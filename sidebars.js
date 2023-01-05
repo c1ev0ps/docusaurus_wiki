@@ -83,7 +83,15 @@ const sidebars = {
             'Grove/Distance/Sensor_distance',
             'Grove/Distance/Grove-TF_Mini_LiDAR',
           ]
-        }
+        },
+        {
+          type: 'category',
+          label: 'Light',
+          items: [
+            'Grove/Light/Sensor_light',
+            // 'Grove/Light/',
+          ],
+        },
       ],
 
     },
