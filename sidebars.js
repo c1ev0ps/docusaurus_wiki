@@ -42,7 +42,104 @@ ProductSidebar: [
       type: 'category',
       label: 'Grove Sensor',
       items: [
+           {
+          type: 'category',
+          label: 'Accelerometer',
+          items: [
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Sensor_accelerometer',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis_Digital_Accelerometer±16g_Ultra-low_Power-BMA400',
+            //'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis_Analog_Accelerometer',
+            //'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis_Compass_V1.0',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis_Digitial_Compass_v2.0',
+            //'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis_Digital_Accelerometer-1.5g',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis_Digital_Accelerometer-400g',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis_Analog_Accelerometer_20g-ADXL356B',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis-Digital-Accelerometer-LIS3DHTR',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis_Analog_Accelerometer_40g-ADXL356C',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis_Digital_Accelerometer_40g-ADXL357',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis_Digital_Accelerometer_200g-ADXL372',
+            //'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis_Digital_Gyro',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-3-Axis_Digital_Accelerometer-16g',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-6-Axis_AccelerometerAndCompass_V2.0',
+            //'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-6-Axis_AccelerometerAndGyroscope',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-6-Axis_Accelerometer&Gyroscope_BMI088',
+            //'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-IMU_10DOF',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-IMU_10DOF_v2.0',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-IMU_9DOF_v2.0',
+            'Sensor/Grove/Grove_Sensors/Accelerometer/Grove-IMU_9DOF-lcm20600+AK09918',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Liquid',
+          items: [
+            'Sensor/Grove/Grove_Sensors/Liquid/Sensor_liquid',
+            'Sensor/Grove/Grove_Sensors/Liquid/Grove-Water_Sensor',
+            'Sensor/Grove/Grove_Sensors/Liquid/Grove-Water-Level-Sensor',
+            'Sensor/Grove/Grove_Sensors/Liquid/Grove-PH-Sensor-kit',
+            'Sensor/Grove/Grove_Sensors/Liquid/Grove-EC-Sensor-kit',
+            'Sensor/Grove/Grove_Sensors/Liquid/Grove-TDS-Sensor',
+            'Sensor/Grove/Grove_Sensors/Liquid/Grove-Turbidity-Sensor-Meter-for-Arduino-V1.0',
+            'Sensor/Grove/Grove_Sensors/Liquid/Grove-ORP-Sensor-kit',
+          ],
 
+        },
+        {
+          type: 'category',
+          label: 'Motion',
+          items: [
+            'Sensor/Grove/Grove_Sensors/Motion/Sensor_motion',
+            'Sensor/Grove/Grove_Sensors/Motion/Grove-PIR_Motion_Sensor',
+            'Sensor/Grove/Grove_Sensors/Motion/Grove-Digital-PIR-Sensor',
+            //'Sensor/Grove/Grove_Sensors/Motion/Grove-Collision_Sensor',
+            //'Sensor/Grove/Grove_Sensors/Motion/Grove-Tilt_Switch',
+            'Sensor/Grove/Grove_Sensors/Motion/Grove-Mini_Track_Ball',
+            'Sensor/Grove/Grove_Sensors/Motion/Grove-Mouse_Encoder',
+            'Sensor/Grove/Grove_Sensors/Motion/Grove-Piezo_Vibration_Sensor',
+            'Sensor/Grove/Grove_Sensors/Motion/Grove-Slide_Potentiometer',
+            'Sensor/Grove/Grove_Sensors/Motion/Grove-Optical_Rotary_Encoder-TCUT1600X01',
+            'Sensor/Grove/Grove_Sensors/Motion/Grove-Vibration_Sensor_SW-420',
+            'Sensor/Grove/Grove_Sensors/Motion/Grove-Encoder',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Gas',
+          items: [
+            //'Sensor/Grove/Grove_Sensors/Gas/Grove-Gas_Sensor',
+            //'Sensor/Grove/Grove_Sensors/Gas/Grove-Gas_Sensor-MQ2',
+            //'Sensor/Grove/Grove_Sensors/Gas/Grove-Gas_Sensor-MQ3',
+            //'Sensor/Grove/Grove_Sensors/Gas/Grove-Gas_Sensor-MQ5',
+            //'Sensor/Grove/Grove_Sensors/Gas/Grove-Gas_Sensor-MQ9',
+            'Sensor/Grove/Grove_Sensors/Gas/Grove-Gas_Sensor-O2',
+            'Sensor/Grove/Grove_Sensors/Gas/Grove-Gas_Sensor-O2-MIX8410',
+            //'Sensor/Grove/Grove_Sensors/Gas/Grove-Multichannel_Gas_Sensor',
+            'Sensor/Grove/Grove_Sensors/Gas/Grove-Multichannel-Gas-Sensor-V2',
+            'Sensor/Grove/Grove_Sensors/Gas/Sensor_gas',
+            //'Sensor/Grove/Grove_Sensors/Gas/Grove-Oxygen-Sensor-Pro',
+            'Sensor/Grove/Grove_Sensors/Gas/Grove-VOC_and_eCO2_Gas_Sensor-SGP30',
+            //'Sensor/Grove/Grove_Sensors/Gas/Grove-Alcohol_Sensor',
+            'Sensor/Grove/Grove_Sensors/Gas/Grove-CO2_Sensor',
+            'Sensor/Grove/Grove_Sensors/Gas/Grove-HCHO_Sensor',
+            'Sensor/Grove/Grove_Sensors/Gas/Grove-Air_Quality_Sensor_v1.3',
+          ],
+
+        },
+        {
+          type: 'category',
+          label: 'Barometer',
+          items: [
+            //'Sensor/Grove/Grove_Sensors/Barometer/Grove-Barometer_Sensor',
+            'Sensor/Grove/Grove_Sensors/Barometer/Grove-Barometer_Sensor-BME280',
+            'Sensor/Grove/Grove_Sensors/Barometer/Grove-Barometer_Sensor-BMP180',
+            'Sensor/Grove/Grove_Sensors/Barometer/Grove-Barometer_Sensor-BMP280',
+            'Sensor/Grove/Grove_Sensors/Barometer/Grove-Barometer-High-Accuracy',
+            'Sensor/Grove/Grove_Sensors/Barometer/Sensor_barometer',
+            'Sensor/Grove/Grove_Sensors/Barometer/Grove-High-Precision-Barometric-Pressure-Sensor-DPS310',
+            'Sensor/Grove/Grove_Sensors/Barometer/Grove-Integrated-Pressure-Sensor-Kit',
+          ],
+
+        },
         {
           type: 'category',
           label: 'All in one',
@@ -279,7 +376,37 @@ ProductSidebar: [
                 'Sensor/Grove/Grove_Accessories/Time/Grove-RTC',
               ],
             },
-            
+            {
+              type: 'category',
+              label: 'Display',
+              items: [
+                'Sensor/Grove/Grove_Accessories/Display/Grove-4-Digit_Display',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-0.54_inch_Red_Dual_Alphanumeric_Display',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-0.54_inch_Red_Quad_Alphanumeric_Display',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-16x2_LCD_Series',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-Circular_LED',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-LCD_RGB_Backlight',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-LED_Bar',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-RGB_LED_Stick-10-WS2813_Mini',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-LED_ring',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-LED_Socket_Kit',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-LED_String_Light',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-LED_Strip_Driver',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-OLED-Display-0.66-SSD1306_v1.0',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-OLED_Display_0.96inch',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-OLED-Display-0.96-SSD1315',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-OLED-Yellow&Blue-Display-0.96-SSD1315_V1.0',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-OLED_Display_1.12inch',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-OLED-Display-1.12-SH1107_V3.0',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-Red_LED',
+                'Sensor/Grove/Grove_Accessories/Display/I2C_LCD',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-RGB_LED_Matrix_w-Driver',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-LED_Matrix_Driver-HT16K33',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-Red_LED_Matrix_w_Driver',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-Triple_Color_E-Ink_Display_2_13',
+                'Sensor/Grove/Grove_Accessories/Display/Grove-Triple_Color_E-Ink_Display_1_54',
+              ],
+            },
             {
               type: 'category',
               label: 'Current',
@@ -318,32 +445,135 @@ ProductSidebar: [
 
 },
 
-{
+// {
 
+//   type: 'category',
+//   label: 'SeeedStudio XIAO',
+//   items: [
+//     {
+//      type: 'category',
+//     label: 'SeeedStudio XIAO nRF52840(Sense)',
+//     items: [
+//       {
+//         type: 'category',
+//        label: 'Application',
+//        items: [
+//       'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840/XIAOEI'
+//        ],
+//        },
+//       ],
+//     },
+//     {
+//       type: 'category',
+//      label: 'SeeedStudio XIAO ESP32C3',
+//      items: [
+//        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/XIAO_ESP32C3_Getting_Started'
+//        ],
+//      },
+//   ],
+// },
+{
   type: 'category',
   label: 'SeeedStudio XIAO',
   items: [
+    'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_Getting_Started',
     {
-     type: 'category',
-    label: 'SeeedStudio XIAO nRF52840(Sense)',
-    items: [
-      {
-        type: 'category',
-       label: 'Application',
-       items: [
-      'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840/XIAOEI'
-       ],
-       },
+      type: 'category',
+      label: 'SeeedStudio_XIAO_Expansion_board',
+      items: [
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_Expansion_board/Grove-Shield-for-Seeeduino-XIAO-embedded-battery-management-chip',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_Expansion_board/Seeeduino-XIAO-Expansion-Board',
       ],
     },
     {
       type: 'category',
-     label: 'SeeedStudio XIAO ESP32C3',
-     items: [
-       'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/XIAO_ESP32C3_Getting_Started'
-       ],
-     },
+      label: 'SeeedStudio_XIAO_ESP32C3',
+      items: [
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/XIAO_ESP32C3_Getting_Started',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/XIAO_ESP32C3_WiFi_Usage',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/XIAO_ESP32C3_Bluetooth_Usage',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/XIAO_ESP32C3_Pin_Multiplexing',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'SeeedStudio_XIAO_SAMD21',
+      items: [
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/Seeeduino-XIAO',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/Seeeduino-XIAO-by-Nanase',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/Seeeduino-XIAO-CircuitPython',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/XIAO-SAMD21-MicroPython',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/Seeeduino-XIAO-TinyUSB',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/XIAO-SPI-Communication-Interface',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/Seeeduino-XIAO-TinyML',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/Seeeduino-XIAO-DAPLink',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/How-to-use-Seeeduino-XIAO-to-log-in-to-your-Raspberry-PI',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'SeeedStudio_XIAO_RP2040',
+      items: [
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_RP2040/XIAO-RP2040',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_RP2040/XIAO-RP2040-with-Arduino',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_RP2040/XIAO-RP2040-with-MicroPython',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_RP2040/XIAO-RP2040-with-CircuitPython',
+        {
+          type: 'category',
+          label: 'TinyML-Edge Impulse',
+          items: [
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_RP2040/TinyML-Edge Impulse/XIAO-RP2040-EI',
+          ]
+        },
+      ], 
+    },
+    {
+      type: 'category',
+      label: 'SeeedStudio_XIAO_nRF52840-Sense',
+      items: [
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/XIAO_BLE',
+        {
+          type: 'category',
+          label: 'Bluetooth_Usage_on_SeeedStudio_XIAO_nRF52840-Sense',
+          items: [
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/Bluetooth_Usage_on_SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE-Sense-Bluetooth_Usage',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/Bluetooth_Usage_on_SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE-Sense-Bluetooth-Usage',
+          ]
+        },
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE-Sense-NFC-Usage',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE-Sense-IMU-Usage',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE-Sense-PDM-Usage',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE-Sense-Pin-Multiplexing',
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE_CircutPython',
+        {
+          type: 'category',
+          label: 'TinyML-TensorFLow_Lite',
+          items: [
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/TinyML-TensorFLow_Lite/XIAO-BLE-Sense-TFLite-Getting-Started',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/TinyML-TensorFLow_Lite/XIAO-BLE-Sense-TFLite-Mic',
+          ]
+        },
+
+        {
+          type: 'category',
+          label: 'TinyML-Edge_Impulse',
+          items: [
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/TinyML-Edge_Impulse/XIAOEI',
+           
+          ]
+        },
+      ]
+    },
+    {
+      type: 'category',
+      label: 'SeeedStudio_XIAO_Kit',
+      items: [
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_Kit/XIAO-Kit-Courses',
+       
+      ]
+    },
   ],
+
 },
 
 {
@@ -405,7 +635,33 @@ ProductSidebar: [
     ],
 
 },
+{
 
+  type: 'category',
+  label: 'SenseCAP_The_Sensor_Prototype_Kit',
+  items: [
+'Sensor/SenseCAP_The_Sensor_Prototype_Kit/K1100_Getting_Started',
+'Sensor/SenseCAP_The_Sensor_Prototype_Kit/K1100-quickstart',
+{
+
+  type: 'category',
+  label: 'LoRaWAN',
+  items: [
+    {
+
+      type: 'category',
+      label: 'SenseCAP',
+      items: [
+    'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/SenseCAP/K1100_sensecap_node-red'
+        ],
+    
+    },
+    ],
+
+},
+    ],
+
+},
 {
 
   type: 'category',
