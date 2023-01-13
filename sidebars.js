@@ -461,15 +461,7 @@ const sidebars = {
   ],
 },
 
-{
 
-  type: 'category',
-  label: 'mmWave radar sensor',
-  items: [
-'Sensor/mmWave_radar_sensor/wiki'
-    ],
-
-},
 
 // {
 
@@ -612,45 +604,13 @@ const sidebars = {
   
 },
 
-{
 
-  type: 'category',
-  label: 'Wio Series',
-  items: [
-'Sensor/Wio_Series/wiki'
-    ],
 
-},
 
-{
 
-  type: 'category',
-  label: 'Seeeduino Series',
-  items: [
-'Sensor/Seeeduino_Series/wiki'
-    ],
 
-},
 
-{
 
-  type: 'category',
-  label: 'Arch',
-  items: [
-'Sensor/Arch/wiki'
-    ],
-
-},
-
-{
-
-  type: 'category',
-  label: 'Azure Sphere MT3620 Development Kit',
-  items: [
-'Sensor/Azure_Sphere_MT3620_Development_Kit/wiki'
-    ],
-
-},
 
 {
 
@@ -933,19 +893,7 @@ const sidebars = {
       type: 'category',
       label: 'SeeedStudio XIAO',
       items: [
-        {
-          type: 'category',
-          label: 'SeeedStudio XIAO nRF52840(Sense)',
-          items: [
-            {
-              type: 'category',
-              label: 'Application',
-              items: [
-                'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840/XIAOEI'
-              ],
-            },
-          ],
-        },
+       
         {
           type: 'category',
           label: 'SeeedStudio XIAO ESP32C3',
