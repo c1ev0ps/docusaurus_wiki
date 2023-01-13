@@ -530,7 +530,7 @@ const sidebars = {
     `,
 },
 
-    },
+
 
     {
 
@@ -590,7 +590,7 @@ const sidebars = {
 },
 
 
-    },
+
 
     {
 
@@ -724,30 +724,6 @@ const sidebars = {
 
     },
 
-    {
-
-      type: 'doc',
-      label: '--Cloud and Chain--',
-      id: 'CloudnChain',
-
-    },
-
-    {
-
-      type: 'category',
-      label: 'SenseCAP Cloud',
-      items: [
-        'Cloud_Chain/SenseCAP_M4/wiki',
-      ],
-
-
-// {
-
-//   type: 'doc',
-//   label: '--Cloud and Chain--',
-//   id: 'CloudnChain',
-
-// },
 
 {
   type: 'html',
@@ -766,6 +742,27 @@ const sidebars = {
     </div>
     `,
 },
+
+    {
+
+      type: 'category',
+      label: 'SenseCAP Cloud',
+      items: [
+        'Cloud_Chain/SenseCAP_M4/wiki',
+      ],
+},
+
+
+
+// {
+
+//   type: 'doc',
+//   label: '--Cloud and Chain--',
+//   id: 'CloudnChain',
+
+// },
+
+
 
 
     {
