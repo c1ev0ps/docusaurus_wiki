@@ -25,11 +25,34 @@ const sidebars = {
     'Getting_Started',
     'weekly_wiki',
 
-    {
 
-      type: 'doc',
-      label: '--Sensor--',
-      id: 'Sensor_Network',
+
+// {
+
+//   type: 'doc',
+//   label: '--Sensor--',
+//   id: 'Sensor_Network',
+
+// },
+
+{
+  type: 'html',
+  value: `
+    <style>
+      .sub_item {
+        width: 275px;
+        display:inline-block;
+        text-align:center;
+        font-size:20px;
+        margin-top: 10px;
+      }
+    </style>
+    <div style="width:100px;text-align:center"> 
+      <div class="sub_item"><strong> Sensor </strong></div>
+    </div>
+    `,
+},
+
 
     },
 
@@ -362,7 +385,60 @@ const sidebars = {
 
     },
 
+
     {
+
+  type: 'category',
+  label: 'Wio Series',
+  items: [
+  // 'Sensor/Wio_Series/wiki',
+  {
+    type: 'category',
+    label: 'Wio_Tracker',
+     items: [
+              'Sensor/Wio_Series/Wio_Tracker/Wio_Tracker',
+              'Sensor/Wio_Series/Wio_Tracker/Wio_LTE_Cat.1',
+              'Sensor/Wio_Series/Wio_Tracker/LTE_Cat_1_Pi_HAT',
+              'Sensor/Wio_Series/Wio_Tracker/wio_gps_board',
+              'Sensor/Wio_Series/Wio_Tracker/Wio_LTE_Cat_M1_NB-IoT_Tracker',
+              'Sensor/Wio_Series/Wio_Tracker/Wio-Extension-RTC',
+
+
+  ],
+  },
+  {
+    type: 'category',
+    label: 'Wio',
+     items: [
+              'Sensor/Wio_Series/Wio/Wio_RP2040_Module_Build-in_Wireless_2.4G',
+              'Sensor/Wio_Series/Wio/Wio_RP2040_mini_Dev_Board-Onboard_Wifi',
+              'Sensor/Wio_Series/Wio/LAN_Communications',
+              'Sensor/Wio_Series/Wio/Use_MQTT_to_remotely_light_up_LED_lights',
+              'Sensor/Wio_Series/Wio/Use_Socket_to_connect_to_the_forum',
+              'Sensor/Wio_Series/Wio/Wio-RP2040-with-Arduino-WIFI',
+              'Sensor/Wio_Series/Wio/Wireless-Fall-Detection-Device',
+              'Sensor/Wio_Series/Wio/Wireless-desktop-atmosphere-lamp',
+              'Sensor/Wio_Series/Wio/Wio',
+              'Sensor/Wio_Series/Wio/Wio_Link',
+              // 'Sensor/Wio_Series/Wio/Wio_Link_Bootcamp_Kit',
+              // 'Sensor/Wio_Series/Wio/Wio_Link_Deluxe_Kit',
+              // 'Sensor/Wio_Series/Wio/Wio_Link_Deluxe_Plus_Kit',
+              // 'Sensor/Wio_Series/Wio/Wio_Link_Environment_Kit',
+              // 'Sensor/Wio_Series/Wio/Wio_Link_Event_Kit',
+              // 'Sensor/Wio_Series/Wio/Wio_Link_Starter_Kit',
+              'Sensor/Wio_Series/Wio/Wio_Node',
+              // 'Sensor/Wio_Series/Wio/Grove_Starter_Kit_for_Wio_LTE', 
+              'Sensor/Wio_Series/Wio/Grove-Shield-for-Wio-Lite',
+              'Sensor/Wio_Series/Wio/Wio-Lite-W600',
+              'Sensor/Wio_Series/Wio/Wio-Lite-MG126',
+              'Sensor/Wio_Series/Wio/Wio_Lite_RISC_V_GD32VF103_with_ESP8266',
+              
+
+
+  ],
+  },
+
+{
 
       type: 'category',
       label: 'Wio Series',
@@ -370,7 +446,12 @@ const sidebars = {
         'Sensor/Wio_Series/wiki'
       ],
 
+
     },
+
+
+
+
 
     {
 
@@ -420,13 +501,35 @@ const sidebars = {
         'Sensor/Pi_Pico/wiki'
       ],
 
+
     },
 
-    {
+   
+// {
 
-      type: 'doc',
-      label: '--Network--',
-      id: 'Sensor_Network',
+//   type: 'doc',
+//   label: '--Network--',
+//   id: 'Sensor_Network',
+
+// },
+
+{
+  type: 'html',
+  value: `
+    <style>
+      .sub_item {
+        width: 275px;
+        display:inline-block;
+        text-align:center;
+        font-size:20px;
+        margin-top: 10px;
+      }
+    </style>
+    <div style="width:100px;text-align:center"> 
+      <div class="sub_item"><strong> Network </strong></div>
+    </div>
+    `,
+},
 
     },
 
@@ -460,13 +563,33 @@ const sidebars = {
         'Network/reRouter/Raspberry-OpenWrt-Getting-Started',
       ],
 
-    },
 
-    {
+// {
 
-      type: 'doc',
-      label: '--Edge--',
-      id: 'Edge_Computing',
+//   type: 'doc',
+//   label: '--Edge--',
+//   id: 'Edge_Computing',
+
+// },
+
+{
+  type: 'html',
+  value: `
+    <style>
+      .sub_item {
+        width: 275px;
+        display:inline-block;
+        text-align:center;
+        font-size:20px;
+        margin-top: 10px;
+      }
+    </style>
+    <div style="width:100px;text-align:center"> 
+      <div class="sub_item"><strong> Edge </strong></div>
+    </div>
+    `,
+},
+
 
     },
 
@@ -618,13 +741,33 @@ const sidebars = {
         'Cloud_Chain/SenseCAP_M4/wiki',
       ],
 
-    },
 
-    {
+// {
 
-      type: 'html',
-      value: '-- Top Brand --',
-    },
+//   type: 'doc',
+//   label: '--Cloud and Chain--',
+//   id: 'CloudnChain',
+
+// },
+
+{
+  type: 'html',
+  value: `
+    <style>
+      .sub_item {
+        width: 275px;
+        display:inline-block;
+        text-align:center;
+        font-size:20px;
+        margin-top: 10px;
+      }
+    </style>
+    <div style="width:100px;text-align:center"> 
+      <div class="sub_item"><strong> Cloud and Chain </strong></div>
+    </div>
+    `,
+},
+
 
     {
 
@@ -635,6 +778,7 @@ const sidebars = {
       ],
 
     },
+
 
     {
 
@@ -672,6 +816,25 @@ const sidebars = {
             'Top_Brand/Raspberry_Pi/Pi_HAT/two-Channel-CAN-BUS-FD-Shield-for-Raspberry-Pi',
           ]
         },
+
+{
+  type: 'html',
+  value: `
+    <style>
+      .sub_item {
+        width: 275px;
+        display:inline-block;
+        text-align:center;
+        font-size:20px;
+        margin-top: 10px;
+      }
+    </style>
+    <div style="width:100px;text-align:center"> 
+      <div class="sub_item"><strong> Top Brand </strong></div>
+    </div>
+    `,
+},
+
 
         {
           type: 'category',
