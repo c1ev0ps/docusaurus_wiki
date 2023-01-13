@@ -1,6 +1,6 @@
 ---
-description: Grove-4-Digit_Display
-title: Grove-4-Digit_Display
+description: Grove - 4-Digit Display
+title: Grove - 4-Digit Display
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

@@ -1,6 +1,6 @@
 ---
-description: Grove-RGB_LED_Stick-10-WS2813_Mini
-title: Grove-RGB_LED_Stick-10-WS2813_Mini
+description: Grove - RGB LED Stick (10 - WS2813 Mini)
+title: Grove - RGB LED Stick (10 - WS2813 Mini)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

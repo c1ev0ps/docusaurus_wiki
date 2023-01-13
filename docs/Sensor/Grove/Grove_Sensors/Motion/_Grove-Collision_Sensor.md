@@ -1,6 +1,6 @@
 ---
-description: Grove-Collision_Sensor
-title: Grove-Collision_Sensor
+description: Grove - Collision Sensor
+title: Grove - Collision Sensor
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

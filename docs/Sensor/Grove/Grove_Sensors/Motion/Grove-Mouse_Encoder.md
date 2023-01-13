@@ -1,6 +1,6 @@
 ---
-description: Grove-Mouse_Encoder
-title: Grove-Mouse_Encoder
+description: Grove - Mouse Encoder
+title: Grove - Mouse Encoder
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

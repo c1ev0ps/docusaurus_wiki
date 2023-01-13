@@ -1,6 +1,6 @@
 ---
-description: Grove-ORP-Sensor-kit
-title: Grove-ORP-Sensor-kit
+description: Grove - ORP Sensor Kit (501Z)
+title: Grove - ORP Sensor Kit (501Z)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

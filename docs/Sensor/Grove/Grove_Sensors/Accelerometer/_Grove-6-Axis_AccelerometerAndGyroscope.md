@@ -1,6 +1,6 @@
 ---
-description: Grove-6-Axis_AccelerometerAndGyroscope
-title: Grove-6-Axis_AccelerometerAndGyroscope
+description: Grove - 6-Axis Accelerometer&amp;Gyroscope
+title: Grove - 6-Axis Accelerometer&amp;Gyroscope
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

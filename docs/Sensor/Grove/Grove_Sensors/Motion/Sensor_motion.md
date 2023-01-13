@@ -1,6 +1,6 @@
 ---
-description: Sensor_motion
-title: Sensor_motion
+description: Sensor - Motion
+title: Sensor - Motion
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

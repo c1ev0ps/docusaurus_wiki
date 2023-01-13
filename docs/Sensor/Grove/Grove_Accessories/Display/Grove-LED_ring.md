@@ -1,6 +1,6 @@
 ---
-description: Grove-LED_ring
-title: Grove-LED_ring
+description: Grove - RGB LED Ring (20 - WS2813 Mini)
+title: Grove - RGB LED Ring (20 - WS2813 Mini)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

@@ -1,6 +1,6 @@
 ---
-description: Grove-EC-Sensor-kit
-title: Grove-EC-Sensor-kit
+description: Grove - EC Sensor Kit
+title: Grove - EC Sensor Kit
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

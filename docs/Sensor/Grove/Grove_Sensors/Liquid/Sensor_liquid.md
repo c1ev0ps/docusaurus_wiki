@@ -1,6 +1,6 @@
 ---
-description: Sensor_liquid
-title: Sensor_liquid
+description: Sensor - Liquid
+title: Sensor - Liquid
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

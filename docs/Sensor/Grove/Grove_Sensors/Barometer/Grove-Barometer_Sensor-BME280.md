@@ -1,6 +1,6 @@
 ---
-description: Grove - Barometer Sensor -BME280
-title: Grove -Barometer Sensor -BME280
+description: Grove - Barometer Sensor(BME280)
+title: Grove - Barometer Sensor(BME280)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

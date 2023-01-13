@@ -1,6 +1,6 @@
 ---
-description: Grove-Turbidity-Sensor-Meter-for-Arduino-V1.0
-title: Grove-Turbidity-Sensor-Meter-for-Arduino-V1.0
+description: Grove - Turbidity Sensor Meter for Arduino V1.0
+title: Grove - Turbidity Sensor Meter for Arduino V1.0
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

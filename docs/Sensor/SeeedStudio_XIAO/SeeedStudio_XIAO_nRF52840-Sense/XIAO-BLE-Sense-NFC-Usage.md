@@ -1,6 +1,6 @@
 ---
-description: XIAO-BLE-Sense-NFC-Usage
-title: XIAO-BLE-Sense-NFC-Usage
+description: NFC Usage on Seeed Studio XIAO nRF52840 (Sense)
+title: NFC Usage on Seeed Studio XIAO nRF52840 (Sense)
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

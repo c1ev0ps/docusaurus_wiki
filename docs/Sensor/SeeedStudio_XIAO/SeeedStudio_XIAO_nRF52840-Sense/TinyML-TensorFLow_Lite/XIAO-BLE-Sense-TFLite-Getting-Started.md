@@ -1,6 +1,6 @@
 ---
-description: XIAO-BLE-Sense-TFLite-Getting-Started
-title: XIAO-BLE-Sense-TFLite-Getting-Started
+description: Getting Started
+title: Getting Started
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

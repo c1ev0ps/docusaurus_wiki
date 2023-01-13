@@ -1,6 +1,6 @@
 ---
-description: Grove-High-Precision-Barometric-Pressure-Sensor-DPS310
-title: Grove-High-Precision-Barometric-Pressure-Sensor-DPS310
+description: Grove - High Precision Barometric Pressure Sensor DPS310
+title: Grove - High Precision Barometric Pressure Sensor DPS310
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

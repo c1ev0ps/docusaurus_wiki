@@ -1,6 +1,6 @@
 ---
-description: Grove-Red_LED
-title: Grove-Red_LED
+description: Grove - Red LED
+title: Grove - Red LED
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

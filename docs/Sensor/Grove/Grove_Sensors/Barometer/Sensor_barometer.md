@@ -1,6 +1,6 @@
 ---
-description: Sensor_barometer
-title: Sensor_barometer
+description: Sensor - Barometer
+title: Sensor - Barometer
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

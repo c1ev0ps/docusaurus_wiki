@@ -1,6 +1,6 @@
 ---
-description: XIAO-SAMD21-MicroPython
-title: XIAO-SAMD21-MicroPython
+description: Seeed Studio XIAO SAMD21 with MicroPython
+title: Seeed Studio XIAO SAMD21 with MicroPython
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

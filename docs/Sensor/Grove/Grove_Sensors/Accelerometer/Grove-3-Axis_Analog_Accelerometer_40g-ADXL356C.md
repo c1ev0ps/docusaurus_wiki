@@ -1,6 +1,6 @@
 ---
-description: Grove-3-Axis_Analog_Accelerometer_40g-ADXL356C
-title: Grove-3-Axis_Analog_Accelerometer_40g-ADXL356C
+description: Grove - 3-Axis Analog Accelerometer 40g (ADXL356C)
+title: Grove - 3-Axis Analog Accelerometer 40g (ADXL356C)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

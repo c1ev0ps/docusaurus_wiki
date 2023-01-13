@@ -1,6 +1,6 @@
 ---
-description: Grove-IMU_9DOF-lcm20600+AK09918
-title: Grove-IMU_9DOF-lcm20600+AK09918
+description: Grove - IMU 9DOF(lcm20600+AK09918)
+title: Grove - IMU 9DOF(lcm20600+AK09918)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

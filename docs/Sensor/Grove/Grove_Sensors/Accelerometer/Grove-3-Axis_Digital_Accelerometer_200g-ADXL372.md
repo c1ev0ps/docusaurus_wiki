@@ -1,6 +1,6 @@
 ---
-description: Grove-3-Axis_Digital_Accelerometer_200g-ADXL372
-title: Grove-3-Axis_Digital_Accelerometer_200g-ADXL372
+description: Grove - 3-Axis Digital Accelerometer 200g (ADXL372)
+title: Grove - 3-Axis Digital Accelerometer 200g (ADXL372)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

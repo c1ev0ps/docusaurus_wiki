@@ -1,6 +1,6 @@
 ---
-description: Grove - Barometer Sensor -BMP180
-title: Grove -Barometer Sensor -BMP180
+description: Grove - Barometer Sensor (BMP180)
+title: Grove - Barometer Sensor (BMP180)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

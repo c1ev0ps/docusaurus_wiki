@@ -1,6 +1,6 @@
 ---
-description: XIAO-Kit-Courses
-title: XIAO Kit Courses
+description: Seeed Studio XIAO Kit Courses
+title: Seeed Studio XIAO Kit Courses
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

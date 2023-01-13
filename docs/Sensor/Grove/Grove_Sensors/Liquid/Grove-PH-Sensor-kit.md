@@ -1,6 +1,6 @@
 ---
-description: Grove-PH-Sensor-kit
-title: Grove-PH-Sensor-kit
+description: Grove - PH Sensor Kit (E-201C-Blue)
+title: Grove - PH Sensor Kit (E-201C-Blue)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

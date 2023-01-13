@@ -1,6 +1,6 @@
 ---
-description: Grove-LED_String_Light
-title: Grove-LED_String_Light
+description: Grove - LED String Light
+title: Grove - LED String Light
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

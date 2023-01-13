@@ -1,6 +1,6 @@
 ---
-description: Grove-HCHO_Sensor
-title: Grove-HCHO_Sensor
+description: Grove - HCHO Sensor
+title: Grove - HCHO Sensor
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

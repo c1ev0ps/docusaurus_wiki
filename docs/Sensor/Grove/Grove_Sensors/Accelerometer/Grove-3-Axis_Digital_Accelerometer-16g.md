@@ -1,6 +1,6 @@
 ---
-description: Grove-3-Axis_Digital_Accelerometer-16g
-title: Grove-3-Axis_Digital_Accelerometer-16g
+description: Grove - 3 Axis Digital Accelerometer(±16g)
+title: Grove - 3 Axis Digital Accelerometer(±16g)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

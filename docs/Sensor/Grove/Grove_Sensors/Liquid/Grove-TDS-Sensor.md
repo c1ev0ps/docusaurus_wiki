@@ -1,6 +1,6 @@
 ---
-description: Grove-TDS-Sensor
-title: Grove-TDS-Sensor
+description: Grove - TDS Sensor
+title: Grove - TDS Sensor
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

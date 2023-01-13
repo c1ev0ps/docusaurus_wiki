@@ -1,6 +1,6 @@
 ---
-description: Grove-3-Axis_Analog_Accelerometer_20g-ADXL356B
-title: Grove-3-Axis_Analog_Accelerometer_20g-ADXL356B
+description: Grove - 3-Axis Analog Accelerometer 20g (ADXL356B)
+title: Grove - 3-Axis Analog Accelerometer 20g (ADXL356B)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

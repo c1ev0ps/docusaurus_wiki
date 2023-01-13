@@ -1,6 +1,6 @@
 ---
-description: Grove-Water-Level-Sensor
-title: Grove-Water-Level-Sensor
+description: Grove - Water Level Sensor
+title: Grove - Water Level Sensor
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

@@ -1,6 +1,6 @@
 ---
-description: Grove-PIR_Motion_Sensor
-title: Grove-PIR_Motion_Sensor
+description: Grove - PIR Motion Sensor
+title: Grove - PIR Motion Sensor
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

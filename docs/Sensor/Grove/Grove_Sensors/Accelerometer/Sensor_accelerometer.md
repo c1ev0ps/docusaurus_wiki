@@ -1,6 +1,6 @@
 ---
-description: Sensor_accelerometer
-title: Sensor_accelerometer
+description: Sensor - Accelerometer
+title: Sensor - Accelerometer
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

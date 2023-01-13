@@ -1,6 +1,6 @@
 ---
-description: Grove-Integrated-Pressure-Sensor-Kit
-title: Grove-Integrated-Pressure-Sensor-Kit
+description: Grove - Integrated Pressure Sensor Kit
+title: Grove - Integrated Pressure Sensor Kit
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

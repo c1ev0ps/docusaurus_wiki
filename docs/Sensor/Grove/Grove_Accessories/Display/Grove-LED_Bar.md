@@ -1,6 +1,6 @@
 ---
-description: Grove-LED_Bar
-title: Grove-LED_Bar
+description: Grove - LED Bar
+title: Grove - LED Bar
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

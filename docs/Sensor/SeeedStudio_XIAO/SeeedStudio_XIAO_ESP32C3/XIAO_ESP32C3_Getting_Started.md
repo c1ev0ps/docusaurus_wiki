@@ -1,6 +1,6 @@
 ---
-description: XIAO_ESP32C3_Getting_Started
-title: XIAO_ESP32C3_Getting_Started
+description: Getting Started with Seeed Studio XIAO ESP32C3
+title: Getting Started with Seeed Studio XIAO ESP32C3
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

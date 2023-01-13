@@ -1,6 +1,6 @@
 ---
-description: Grove-Mini_Track_Ball
-title: Grove-Mini_Track_Ball
+description: Grove - Mini Track Ball
+title: Grove - Mini Track Ball
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

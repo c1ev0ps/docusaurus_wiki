@@ -1,6 +1,6 @@
 ---
-description: Grove-Piezo_Vibration_Sensor
-title: Grove-Piezo_Vibration_Sensor
+description: Grove - Piezo Vibration Sensor
+title: Grove - Piezo Vibration Sensor
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

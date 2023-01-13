@@ -1,6 +1,6 @@
 ---
-description: Seeeduino-XIAO-Expansion-Board
-title: Seeeduino-XIAO-Expansion-Board
+description: Seeed Studio XIAO Expansion board
+title: Seeed Studio XIAO Expansion board
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

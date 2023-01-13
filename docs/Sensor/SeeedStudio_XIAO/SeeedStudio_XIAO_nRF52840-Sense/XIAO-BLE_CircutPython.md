@@ -1,6 +1,6 @@
 ---
-description: XIAO-BLE_CircutPython
-title: XIAO-BLE_CircutPython
+description: Seeed Studio XIAO nRF52840 with CircuitPython
+title: Seeed Studio XIAO nRF52840 with CircuitPython
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

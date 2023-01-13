@@ -1,6 +1,6 @@
 ---
-description: Grove-3-Axis_Analog_Accelerometer
-title: Grove-3-Axis_Analog_Accelerometer
+description: Grove - 3-Axis Analog Accelerometer
+title: Grove - 3-Axis Analog Accelerometer
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

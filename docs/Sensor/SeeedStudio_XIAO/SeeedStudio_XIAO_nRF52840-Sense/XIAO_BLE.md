@@ -1,6 +1,6 @@
 ---
-description: XIAO_BLE
-title: XIAO_BLE
+description: Getting Started with Seeed Studio XIAO nRF52840 (Sense)
+title: Getting Started with Seeed Studio XIAO nRF52840 (Sense)
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

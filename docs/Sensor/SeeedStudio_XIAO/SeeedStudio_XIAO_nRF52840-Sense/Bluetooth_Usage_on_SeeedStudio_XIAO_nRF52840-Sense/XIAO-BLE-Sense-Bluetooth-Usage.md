@@ -1,6 +1,6 @@
 ---
-description: XIAO-BLE-Sense-Bluetooth-Usage
-title: XIAO-BLE-Sense-Bluetooth-Usage
+description: For Seeed nRF52 mbed-enabled Boards Boards
+title: For Seeed nRF52 mbed-enabled Boards Boards
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

@@ -1,6 +1,6 @@
 ---
-description: XIAO-RP2040-with-CircuitPython
-title: XIAO-RP2040-with-CircuitPython
+description: Seeed Studio XIAO RP2040 with CircuitPython
+title: Seeed Studio XIAO RP2040 with CircuitPython
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

@@ -1,6 +1,6 @@
 ---
-description: Grove-Tilt_Switch
-title: Grove-Tilt_Switch
+description: Grove - Tilt Switch
+title: Grove - Tilt Switch
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

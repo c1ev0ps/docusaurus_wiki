@@ -1,6 +1,6 @@
 ---
-description: XIAO-BLE-Sense-TFLite-Mic
-title: XIAO-BLE-Sense-TFLite-Mic
+description: Speech Recognition
+title: Speech Recognition
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

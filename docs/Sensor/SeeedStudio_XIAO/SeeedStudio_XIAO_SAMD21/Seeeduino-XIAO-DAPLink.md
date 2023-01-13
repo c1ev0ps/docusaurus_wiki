@@ -1,6 +1,6 @@
 ---
-description: Seeeduino-XIAO-DAPLink
-title: Seeeduino-XIAO-DAPLink
+description: Build a DAPLink Deivce using Seeed Studio XIAO SAMD21
+title: Build a DAPLink Deivce using Seeed Studio XIAO SAMD21
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

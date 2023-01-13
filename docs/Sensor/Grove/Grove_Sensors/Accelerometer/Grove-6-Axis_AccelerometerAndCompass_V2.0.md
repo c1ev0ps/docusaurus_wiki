@@ -1,6 +1,6 @@
 ---
-description: Grove-6-Axis_AccelerometerAndCompass_V2.0
-title: Grove-6-Axis_AccelerometerAndCompass_V2.0
+description: Grove - 6-Axis Accelerometer&amp;Compass V2.0
+title: Grove - 6-Axis Accelerometer&amp;Compass V2.0
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

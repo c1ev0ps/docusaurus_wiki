@@ -5,7 +5,7 @@ keywords:
 - SenseCap
 image: https://avatars.githubusercontent.com/u/37475446?s=400&u=081e62d37acfd56fd814a8106ae50f5497f6aafe&v=4
 last_update:
-  date: 1/12/2023
+  date: 1/13/2023
   author: shuxu hu
 ---
 
@@ -13,7 +13,8 @@ last_update:
 
 **SenseCAP K1100 - The Sensor Prototype Kit** represents Seeed Studio concentrating the essence of LoRa® communication on technology and edge intelligence products, for the easiest deploying and mastering of LoRa® and IoT applications.
 
-<div align="center"><img width={800} src="https://files.seeedstudio.com/wiki/K1100/banner.png" /></div>
+<div align="center"><img width="{800}" src="https://files.seeedstudio.com/wiki/K1100/banner.png" /></div>
+
 
 
 <!-- <p style=":center"><a href="https://www.seeedstudio.com/Seeed-Studio-LoRaWAN-Dev-Kit-p-5370.html?queryID=a88444c7c4ccfa5dddd4d2a84db3dd5e&objectID=5370&indexName=bazaar_retailer_products" target="_blank"><img src="https://files.seeedstudio.com/wiki/Seeed-WiKi/docs/images/get_one_now.png" /></a></p> -->
@@ -311,9 +312,10 @@ Topic Format: `/device_sensor_data/<OrgID>/<DeviceEUI>/<Channel>/<Reserved>/<Mea
 
 :::note
     The content of this tutorial only applies to the K1100 kit, so please refer to the content inside the **LoraWAN Dev Kit** for the Measured value ID and do not call other ID.
+:::
 <div align="center"><img width={650} src="https://files.seeedstudio.com/wiki/k1100-nodered/30.png" /></div>
 
-:::
+
 For example, if I want to be able to get sensor data for the light values sent by Wio Terminal, then the Topic information I fill in should be:
 
 ```

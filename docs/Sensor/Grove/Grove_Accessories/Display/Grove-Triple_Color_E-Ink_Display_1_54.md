@@ -1,6 +1,6 @@
 ---
-description: Grove-Triple_Color_E-Ink_Display_1_54
-title: Grove-Triple_Color_E-Ink_Display_1_54
+description: Grove - Triple Color E-Ink Display 1.54"
+title: Grove - Triple Color E-Ink Display 1.54"
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

@@ -1,6 +1,6 @@
 ---
-description: Grove-3-Axis_Digital_Accelerometer_40g-ADXL357
-title: Grove-3-Axis_Digital_Accelerometer_40g-ADXL357
+description: Grove - 3-Axis Digital Accelerometer 40g (ADXL357)
+title: Grove - 3-Axis Digital Accelerometer 40g (ADXL357)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

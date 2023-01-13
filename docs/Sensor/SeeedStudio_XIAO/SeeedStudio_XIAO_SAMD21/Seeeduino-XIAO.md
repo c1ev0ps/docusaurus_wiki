@@ -1,6 +1,6 @@
 ---
-description: Seeeduino-XIAO
-title: Seeeduino-XIAO
+description: Getting Started with Seeed Studio XIAO SAMD21
+title: Getting Started with Seeed Studio XIAO SAMD21
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

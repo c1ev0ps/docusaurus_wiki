@@ -1,6 +1,6 @@
 ---
-description: Grove-IMU_10DOF
-title: Grove-IMU_10DOF
+description: Grove - IMU 10DOF
+title: Grove - IMU 10DOF
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

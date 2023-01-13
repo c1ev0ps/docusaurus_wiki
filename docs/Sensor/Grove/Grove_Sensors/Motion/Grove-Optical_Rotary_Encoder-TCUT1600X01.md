@@ -1,6 +1,6 @@
 ---
-description: Grove-Optical_Rotary_Encoder-TCUT1600X01
-title: Grove-Optical_Rotary_Encoder-TCUT1600X01
+description: Grove - Optical Rotary Encoder(TCUT1600X01)
+title: Grove - Optical Rotary Encoder(TCUT1600X01)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

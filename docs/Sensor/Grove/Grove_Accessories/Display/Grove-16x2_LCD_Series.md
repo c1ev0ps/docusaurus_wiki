@@ -1,6 +1,6 @@
 ---
-description: Grove-16x2_LCD_Series
-title: Grove-16x2_LCD_Series
+description: Grove - 16x2 LCD
+title: Grove - 16x2 LCD
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

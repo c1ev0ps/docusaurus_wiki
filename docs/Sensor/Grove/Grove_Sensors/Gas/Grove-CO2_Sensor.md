@@ -1,6 +1,6 @@
 ---
-description: Grove -Co2_Sensor
-title: Grove -Co2_Sensor
+description: Grove - CO2 Sensor
+title: Grove - CO2 Sensor
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

@@ -1,6 +1,6 @@
 ---
-description: Grove - Barometer-High-Accuracy
-title: Grove - Barometer-High-Accuracy
+description: Grove - Barometer (High-Accuracy)
+title: Grove - Barometer (High-Accuracy)
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

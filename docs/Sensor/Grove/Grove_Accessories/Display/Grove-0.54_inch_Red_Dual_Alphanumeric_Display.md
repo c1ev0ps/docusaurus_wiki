@@ -1,6 +1,6 @@
 ---
-description: Grove-0.54_inch_Red_Dual_Alphanumeric_Display
-title: Grove-0.54_inch_Red_Dual_Alphanumeric_Display
+description: Grove - 0.54 inch Red Dual Alphanumeric Display
+title: Grove - 0.54 inch Red Dual Alphanumeric Display
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

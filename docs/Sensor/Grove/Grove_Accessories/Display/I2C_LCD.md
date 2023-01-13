@@ -1,6 +1,6 @@
 ---
-description: I2C_LCD
-title: I2C_LCD
+description: I2C LCD
+title: I2C LCD
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

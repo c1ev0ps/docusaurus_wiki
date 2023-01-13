@@ -1,6 +1,6 @@
 ---
-description: Grove - Multichannel- Gas- Sensor
-title: Grove - Multichannel- Gas- Sensor
+description: Grove - Multichannel Gas Sensor
+title: Grove - Multichannel Gas Sensor
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

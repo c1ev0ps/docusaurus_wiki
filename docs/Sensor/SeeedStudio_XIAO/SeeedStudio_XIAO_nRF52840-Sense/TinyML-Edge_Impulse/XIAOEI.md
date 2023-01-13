@@ -1,6 +1,6 @@
 ---
-description: XIAOEI
-title: XIAOEI
+description: Motion Recognition based on Edge Impulse
+title: Motion Recognition based on Edge Impulse
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

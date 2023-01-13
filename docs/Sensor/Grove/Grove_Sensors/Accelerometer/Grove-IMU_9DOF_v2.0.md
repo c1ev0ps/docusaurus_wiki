@@ -1,6 +1,6 @@
 ---
-description: Grove-IMU_9DOF_v2.0
-title: Grove-IMU_9DOF_v2.0
+description: Grove - IMU 9DOF v2.0
+title: Grove - IMU 9DOF v2.0
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

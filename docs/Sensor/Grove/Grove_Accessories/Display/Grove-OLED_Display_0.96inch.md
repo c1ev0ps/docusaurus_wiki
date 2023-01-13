@@ -1,6 +1,6 @@
 ---
-description: Grove-OLED_Display_0.96inch
-title: Grove-OLED_Display_0.96inch
+description: Grove - OLED Display 0.96 inch
+title: Grove - OLED Display 0.96 inch
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

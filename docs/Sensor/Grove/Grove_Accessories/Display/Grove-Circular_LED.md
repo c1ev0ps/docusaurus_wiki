@@ -1,6 +1,6 @@
 ---
-description: Grove-Circular_LED
-title: Grove-Circular_LED
+description: Grove - Circular LED
+title: Grove - Circular LED
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

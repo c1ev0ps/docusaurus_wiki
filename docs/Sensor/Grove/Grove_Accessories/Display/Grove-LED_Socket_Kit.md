@@ -1,6 +1,6 @@
 ---
-description: Grove-LED_Socket_Kit
-title: Grove-LED_Socket_Kit
+description: Grove - LED Socket Kit
+title: Grove - LED Socket Kit
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

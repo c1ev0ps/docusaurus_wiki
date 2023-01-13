@@ -1,6 +1,6 @@
 ---
-description: Grove-Red_LED_Matrix_w_Driver
-title: Grove-Red_LED_Matrix_w_Driver
+description: Grove - Red LED Matrix w/Driver
+title: Grove - Red LED Matrix w/Driver
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

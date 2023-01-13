@@ -1,6 +1,6 @@
 ---
-description: Grove-Slide_Potentiometer
-title: Grove-Slide_Potentiometer
+description: Grove - Slide Potentiometer
+title: Grove - Slide Potentiometer
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

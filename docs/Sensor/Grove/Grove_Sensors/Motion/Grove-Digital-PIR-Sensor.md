@@ -1,6 +1,6 @@
 ---
-description: Grove-Digital-PIR-Sensor
-title: Grove-Digital-PIR-Sensor
+description: Grove - Digital PIR Sensor
+title: Grove - Digital PIR Sensor
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

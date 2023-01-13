@@ -1,6 +1,6 @@
 ---
-description: Sensor_gas
-title: Sensor_gas
+description: Sensor - Gas
+title: Sensor - Gas
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

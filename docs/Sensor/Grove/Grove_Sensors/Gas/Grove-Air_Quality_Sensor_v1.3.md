@@ -1,6 +1,6 @@
 ---
-description: Grove-Air_Quality_Sensor_v1.3
-title: Grove-Air_Quality_Sensor_v1.3
+description: Grove - Air Quality Sensor v1.3
+title: Grove - Air Quality Sensor v1.3
 keywords:
 - Grove
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

@@ -1,6 +1,6 @@
 ---
-description: Seeeduino-XIAO-TinyML
-title: Seeeduino-XIAO-TinyML
+description: TinyML on Seeed Studio XIAO SAMD21
+title: TinyML on Seeed Studio XIAO SAMD21
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

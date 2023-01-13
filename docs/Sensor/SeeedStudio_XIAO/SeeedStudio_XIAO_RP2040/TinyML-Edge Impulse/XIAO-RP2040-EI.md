@@ -1,6 +1,6 @@
 ---
-description: XIAO-RP2040-EI
-title: XIAO-RP2040-EI
+description: Motion Recognition based on Edge Impulse
+title: Motion Recognition based on Edge Impulse
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

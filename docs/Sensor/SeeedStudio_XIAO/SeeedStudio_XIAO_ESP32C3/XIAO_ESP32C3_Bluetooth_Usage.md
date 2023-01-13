@@ -1,6 +1,6 @@
 ---
-description: XIAO_ESP32C3_Bluetooth_Usage
-title: XIAO_ESP32C3_Bluetooth_Usage
+description: Bluetooth Usage on Seeed Studio XIAO ESP32C3
+title: Bluetooth Usage on Seeed Studio XIAO ESP32C3
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png

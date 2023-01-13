@@ -1,6 +1,6 @@
 ---
-description: XIAO-RP2040
-title: XIAO-RP2040
+description: Overview
+title: Overview
 keywords:
 - xiao
 image: https://files.seeedstudio.com/wiki/wiki-platform/S.png
