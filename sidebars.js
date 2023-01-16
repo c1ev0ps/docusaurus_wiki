@@ -343,33 +343,108 @@ const sidebars = {
     },
 
     {
-
       type: 'category',
       label: 'SeeedStudio XIAO',
       items: [
+        'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_Getting_Started',
         {
           type: 'category',
-          label: 'SeeedStudio XIAO nRF52840(Sense)',
+          label: 'SeeedStudio_XIAO_Expansion_board',
           items: [
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_Expansion_board/Grove-Shield-for-Seeeduino-XIAO-embedded-battery-management-chip',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_Expansion_board/Seeeduino-XIAO-Expansion-Board',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'SeeedStudio_XIAO_ESP32C3',
+          items: [
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/XIAO_ESP32C3_Getting_Started',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/XIAO_ESP32C3_WiFi_Usage',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/XIAO_ESP32C3_Bluetooth_Usage',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/XIAO_ESP32C3_Pin_Multiplexing',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'SeeedStudio_XIAO_SAMD21',
+          items: [
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/Seeeduino-XIAO',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/Seeeduino-XIAO-by-Nanase',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/Seeeduino-XIAO-CircuitPython',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/XIAO-SAMD21-MicroPython',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/Seeeduino-XIAO-TinyUSB',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/XIAO-SPI-Communication-Interface',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/Seeeduino-XIAO-TinyML',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/Seeeduino-XIAO-DAPLink',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_SAMD21/How-to-use-Seeeduino-XIAO-to-log-in-to-your-Raspberry-PI',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'SeeedStudio_XIAO_RP2040',
+          items: [
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_RP2040/XIAO-RP2040',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_RP2040/XIAO-RP2040-with-Arduino',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_RP2040/XIAO-RP2040-with-MicroPython',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_RP2040/XIAO-RP2040-with-CircuitPython',
             {
               type: 'category',
-              label: 'Application',
+              label: 'TinyML-Edge Impulse',
               items: [
-                'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840/XIAOEI'
-              ],
+                'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_RP2040/TinyML-Edge Impulse/XIAO-RP2040-EI',
+              ]
             },
-          ],
+          ], 
         },
         {
           type: 'category',
-          label: 'SeeedStudio XIAO ESP32C3',
+          label: 'SeeedStudio_XIAO_nRF52840-Sense',
           items: [
-            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32C3/XIAO_ESP32C3_Getting_Started'
-          ],
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/XIAO_BLE',
+            {
+              type: 'category',
+              label: 'Bluetooth_Usage_on_SeeedStudio_XIAO_nRF52840-Sense',
+              items: [
+                'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/Bluetooth_Usage_on_SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE-Sense-Bluetooth_Usage',
+                'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/Bluetooth_Usage_on_SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE-Sense-Bluetooth-Usage',
+              ]
+            },
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE-Sense-NFC-Usage',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE-Sense-IMU-Usage',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE-Sense-PDM-Usage',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE-Sense-Pin-Multiplexing',
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/XIAO-BLE_CircutPython',
+            {
+              type: 'category',
+              label: 'TinyML-TensorFLow_Lite',
+              items: [
+                'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/TinyML-TensorFLow_Lite/XIAO-BLE-Sense-TFLite-Getting-Started',
+                'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/TinyML-TensorFLow_Lite/XIAO-BLE-Sense-TFLite-Mic',
+              ]
+            },
+    
+            {
+              type: 'category',
+              label: 'TinyML-Edge_Impulse',
+              items: [
+                'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_nRF52840-Sense/TinyML-Edge_Impulse/XIAOEI',
+               
+              ]
+            },
+          ]
+        },
+        {
+          type: 'category',
+          label: 'SeeedStudio_XIAO_Kit',
+          items: [
+            'Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_Kit/XIAO-Kit-Courses',
+           
+          ]
         },
       ],
+    
     },
-
     {
 
       type: 'category',
@@ -481,7 +556,128 @@ const sidebars = {
       ],
 
     },
+    {
 
+      type: 'category',
+      label: 'SenseCAP the Sensor Prototype Kit',
+      items: [
+    'Sensor/SenseCAP_The_Sensor_Prototype_Kit/K1100_Getting_Started',
+    'Sensor/SenseCAP_The_Sensor_Prototype_Kit/K1100-quickstart',
+    {
+    
+      type: 'category',
+      label: 'LoRaWAN',
+      items: [
+        {
+    
+          type: 'category',
+          label: 'SenseCAP',
+          items: [
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/SenseCAP/K1100_sensecap_node-red',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/SenseCAP/K1100_SenseCAP_to_Azure_IoT_Central',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/SenseCAP/K1100_SenseCAP_to_PowerBI',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/SenseCAP/K1100_SenseCAP_to_influxdb',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/SenseCAP/K1100_SenseCAP_to_twilio',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/SenseCAP/K1100_SenseCAP_to_datacake',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/SenseCAP/K1100_SenseCAP_to_grafana',
+    
+            ],
+        
+        },
+        {
+    
+          type: 'category',
+          label: 'Programme with Arduino',
+          items: [
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/Programme with Arduino/K1100-Light-Sensor-Grove-LoRa-E5',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/Programme with Arduino/K1100-IMU-Sensor-Grove-LoRa-E5',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/Programme with Arduino/K1100-Soil-Moisture-Sensor-Grove-LoRa-E5',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/Programme with Arduino/K1100-VOC-and-eCO2-Gas-Sensor-Grove-LoRa-E5',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/Programme with Arduino/K1100-Temp-Humi-Sensor-Grove-LoRa-E5',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/Programme with Arduino/K1100-Vision-AI-Module-Grove-LoRa-E5',
+            ],
+        
+        },
+        {
+    
+          type: 'category',
+          label: 'Helium',
+          items: [
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/Helium/Helium-Introduction',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/Helium/Connecting-to-Helium',
+        {
+    
+          type: 'category',
+          label: 'Azure',
+          items: [
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/Helium/Azure/Integrate-into-Azure-IoT-Hub',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/Helium/Azure/Configuring-Web-APP-Visualization',
+            ],
+        },
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/Helium/Integrate_into_Google_Sheets_via_Helium',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/Helium/Connect_AWS_via_helium',
+            ],
+        
+        },
+        {
+    
+          type: 'category',
+          label: 'TTN',
+          items: [
+            'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/TTN/TTN-Introduction',
+            'Sensor/SenseCAP_The_Sensor_Prototype_Kit/LoRaWAN/TTN/Connecting-to-TTN',
+            ],
+        
+        },
+        ],
+    
+    },
+    {
+    
+      type: 'category',
+      label: 'WiFi Uplink',
+      items: [
+        {
+    
+          type: 'category',
+          label: 'Azure',
+          items: [
+            'Sensor/SenseCAP_The_Sensor_Prototype_Kit/WiFi Uplink/Azure/Connect-Wio-Terminal-to-Azure-IoT-Central',
+            'Sensor/SenseCAP_The_Sensor_Prototype_Kit/WiFi Uplink/Azure/Develop-in-Microsoft-Azure-IoT-Central',
+            'Sensor/SenseCAP_The_Sensor_Prototype_Kit/WiFi Uplink/Azure/K1100_Azure_to_PowerBI',
+            ],
+        
+        },
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/WiFi Uplink/Getting_started_with_Ubidots',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/WiFi Uplink/Quick-Start-to-using-Blynk',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/WiFi Uplink/Wio-Terminal-Advanced-WiFi',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/WiFi Uplink/Connect-Wio-Terminal-to-Google-Cloud',
+        ],
+    
+    },
+    {
+    
+      type: 'category',
+      label: 'TinyML',
+      items: [
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/TinyML/K1111-Edge-Impulse',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/TinyML/Train-Deploy-AI-Model-Grove-Vision-AI',
+        ],
+    
+    },
+    {
+    
+      type: 'category',
+      label: 'Project',
+      items: [
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/Project/IoT-into-the-wild-contest',
+        'Sensor/SenseCAP_The_Sensor_Prototype_Kit/Project/K1111-Quick-Start-Guide',
+        ],
+    
+    },
+        ],
+    
+    },
     {
 
       type: 'category',
