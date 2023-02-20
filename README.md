@@ -1,4 +1,4 @@
-For the latest version, please move [](https://github.com/Seeed-Studio/wiki-documents), where we will continue to develop and maintain
+For the latest version, please move [https://github.com/Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents), where we will continue to develop and maintain
 
 # The Seeed Studio Files Management Platform
 
