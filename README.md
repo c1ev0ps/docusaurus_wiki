@@ -1,3 +1,5 @@
+For the latest version, please move [](https://github.com/Seeed-Studio/wiki-documents), where we will continue to develop and maintain
+
 # The Seeed Studio Files Management Platform
 
 <p style={{textAlign: 'center'}}><img src="https://files.seeedstudio.com/wiki/seeed_logo/Wiki_Platform_GT_Logo.jpg" alt="pir" width={1000} height="auto" /></p>
